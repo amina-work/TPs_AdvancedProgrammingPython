@@ -1,0 +1,76 @@
+Homework Assignment (20%) Content
+
+Study the chapter 8. Create a python program that does the following:
+
+
+
+0) Add comments before each of the following tasks and describe what you are doing with the different sections of the code
+
+
+
+1) The program should introduce itself as a digital assistant and display their name. Store the name in a variable.
+
+(e.g. Greetings, Padawan. My name is variableNameOfYourChoice.)
+
+
+
+2) Then the program spews out the following information that are stored in a singleVariable.
+
+"The Software (or System) Development Life Cycle (SDLC) is a systematic approach that breaks the software process into phases--planning, analysis, design, implementation and maintenance."
+
+
+
+3) The program creates an empty line and displays the following information that is also stored in a differentVariable.
+
+"The design process focus on how the system or software product will be developed. The design phases may provide infrastructure and organizational changes for the new system, a data schema (relational schema), metadata (to define tables), a function hierarchy diagram, psuedocode for each module, or a protoype of the new system. "
+
+
+
+4) The program should print the following, no variables needed:
+
+"Well, that is enough about SDLC! I am so happy you have come back!! I've got some new tricks I want to show you.
+
+
+
+5) Create a function (you can call the function menu) that will display the 5 new tricks the digital assistant can do
+ with an option to exit. The menu function will take no parameters but will return a value chosen by the user for the menu.
+
+(Possible Tricks for the digital assistant. You can choose any 5 new tricks for your 
+digital assistant to perform. They must be written as functions, passed the correct arguments and 
+return the correct result. The functions should not be asking for input nor printing results. They are given 
+the arguments and return the answer --not printed. One function call should use keyword arguments and one 
+function should have default values. You may come up with your own trick (function) and count it one of the 
+tricks for the digital assistant.)
+
+Given a phrase, I can count the number of vowels in a phrase.
+Given a phrase, I can determine if a phrase is a palindrome.
+Given two sides of a right triangle, I can figure out the hypotenuse.
+Given three sides of a triangle, I can determine if it is a right triangle.
+Given three numbers, I can determine if the numbers could be the side of a triangle.
+Given a number, I can determine if it a perfect number.
+Given a number, I can determine if it a prime number.
+Given a list of numbers, I can determine the smaller number. (Use a function to grab the list from the user)
+Given a list of grades, I can determine the average of the numbers. (Use a function to grab the list from the user)
+Give a number, I can determine the sum of the numbers from 1 to the number.
+Given a number, I can determine the sum of all odd numbers between 1 and the number.
+Given the length and width of a rectangle, I can determine the parameter and the area.
+Given the radius of a circle, I can determine the circumference, area.
+Given a temperature in Celsius, I can determine the temperature in Fahrenheit.
+Given a dollar amount (a number), I can determine how many pesos you can buy.
+
+
+6) The program should display the menu and continue to run until a selection to exit is given to the digital assistant. The user should be allowed to pick a trick and see the digital assistant do the trick.
+
+
+
+7) Once, the program is working correctly, you can place the functions in a separate file and import the functions to make sure your program is working correctly.
+
+
+
+9) Once the user select an option to exit. make the program say goodbye.
+
+e.g. It was great to see you again so I could show you my tricks. I can't wait until next time. ;)
+
+
+
+Submit the two .py file using this assignment page
